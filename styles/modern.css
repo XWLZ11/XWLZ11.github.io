@@ -786,6 +786,8 @@ img {
 /* 研究区块容器 */
 .research-section {
     background-color: white;  /* 纯白背景区分内容区块 */
+    display: flex;            /* 使用flex布局 */
+    justify-content: center;  /* 水平居中 */    
 }
 
 /* 研究项目网格布局 */
@@ -794,6 +796,7 @@ img {
     /* 自适应列数：最小300px，等宽响应式布局 */
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 2rem;  /* 卡片间距 */
+    justify-content: center;  /* 确保网格内的项目水平居中 */
 }
 
 /* 研究项目卡片 */
