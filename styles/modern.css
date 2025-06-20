@@ -1531,6 +1531,9 @@ img {
 
 /* 社交图标样式 */
 .footer-social-icon {
+    display: inline-flex;   /* 行内弹性容器更适配图标场景 */
+    justify-content: center;  /* 水平轴居中 */    
+    align-items: center;      /* 垂直轴居中 */
     color: white;       /* 反白图标 */
     font-size: 1.2rem; /* 图标尺寸 */
     transition: var(--transition); /* 过渡效果 */
