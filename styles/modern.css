@@ -1641,7 +1641,33 @@ img {
     .nav-menu.active {
         right: 0;            /* 滑入显示 */
     }
+
+    .about-content {
+        justify-items: center;  /* 网格单元格内容水平居中 */
+        padding: 0 2%;         /* 增加左右内边距 */
+    }
+    .profile-image {
+        max-width: 350px;      /* 限制头像容器宽度 */
+        margin: 0 auto;        /* 容器自身居中 */
+    }
+    .profile-image img {
+        display: block;
+        margin: 0 auto;
+    }
     
+    .social-links {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        max-width: 95%;
+        margin: 15px auto 0;
+    }
+    
+    .social-links a {
+        margin: 8px;
+        transform: scale(0.95);
+    }
+
     /* 页脚单列布局 */
     .footer-content {
         grid-template-columns: 1fr;
