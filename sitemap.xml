@@ -1,7 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://xwlz11.github.io/</loc>
-    <priority>1.0</priority>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://xwlz11.github.io/</loc>
+  <lastmod>2025-06-26T07:29:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/about/</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/2025/06/26/qe/</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/2025/06/25/cp2k/</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/2025/06/24/rustdesk/</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/2025/06/23/hello/</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=Linux</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=DFT%26MD</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=HPC</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=QE</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=PLUMED</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=CP2K</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=Rustdesk</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=%E6%9C%8D%E5%8A%A1%E5%99%A8</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=%E8%BF%9C%E7%A8%8B%E6%A1%8C%E9%9D%A2</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://xwlz11.github.io/blog.github.io/archive/?tag=Meta</loc>
+  <lastmod>2025-06-26T07:37:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
 </urlset>
